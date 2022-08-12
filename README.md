@@ -34,11 +34,7 @@ input {
 		} 
 	}
 
-Step 9
-Follow video link
-=================
-https://www.youtube.com/watch?v=9g-h1biMn2E
-https://www.youtube.com/watch?v=5s9pR9UUtAU
+
 
 
 output {
@@ -59,4 +55,8 @@ D:\software\ELK-kibana-logstash\logstash-7.6.2\logstash-7.6.2\bin
 Step 8 start logstash
 D:\software\ELK-kibana-logstash\logstash-7.6.2\logstash-7.6.2\bin> logstash -f logstash.conf
 
-
+Step 9
+Follow video link
+=================
+https://www.youtube.com/watch?v=9g-h1biMn2E
+https://www.youtube.com/watch?v=5s9pR9UUtAU
