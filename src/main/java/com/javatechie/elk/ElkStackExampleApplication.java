@@ -48,6 +48,7 @@ public class ElkStackExampleApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ElkStackExampleApplication.class, args);
+		System.out.println("Main method");
     }
 
 }
